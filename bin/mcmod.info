@@ -1,0 +1,16 @@
+[
+{
+  "modid": "orliacore",
+  "name": "OrliaCore Mod",
+  "description": "ComplementaryMod for OrliaMC NetWork, do not distribute.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JourBoon"],
+  "credits": "Thanks to Antonin, Auracitron, Zoluxe, Ploustic, Dino.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

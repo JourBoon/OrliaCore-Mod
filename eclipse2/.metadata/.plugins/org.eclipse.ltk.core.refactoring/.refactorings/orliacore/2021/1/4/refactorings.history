@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;orliacore/src/main/resources/assets/minecraft/textures/gui/container/inventory.png&apos; to &apos;inventorytest.png&apos;" description="Rename resource &apos;inventory.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/assets/minecraft/textures/gui/container/inventory.png" name="inventorytest.png" stamp="1611956082369" updateReferences="true"/>
+</session>

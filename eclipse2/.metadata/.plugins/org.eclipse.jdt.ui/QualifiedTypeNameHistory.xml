@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.Display"/>
+<fullyQualifiedTypeName name="orliacore.main.OrliaCoreCommonProxy"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="com.sun.javafx.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.LogManager"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiButtonLanguage"/>
+<fullyQualifiedTypeName name="java.awt.Button"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.client.FMLClientHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.client.multiplayer.ServerData"/>
+<fullyQualifiedTypeName name="java.net.URISyntaxException"/>
+<fullyQualifiedTypeName name="java.awt.Desktop"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.player.PlayerInteractEvent"/>
+<fullyQualifiedTypeName name="net.minecraft.util.text.TextComponentString"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.Gui"/>
+<fullyQualifiedTypeName name="club.minnced.discord.rpc.DiscordEventHandlers"/>
+<fullyQualifiedTypeName name="club.minnced.discord.rpc.DiscordRPC"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiScreen"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiButton"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiIngameMenu"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.inventory.GuiContainerCreative"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.inventory.GuiInventory"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
+</qualifiedTypeNameHistroy>

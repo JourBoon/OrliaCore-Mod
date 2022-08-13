@@ -1,0 +1,22 @@
+Unsupposrted library path: C:\Users\Tom\Desktop\orliacore\build\classes\api
+Unsupposrted library path: C:\Users\Tom\Desktop\orliacore\build\resources\api
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "orliacore/main/GuiButtonDiscord.java" md5: bebd8ab511819a18068b12e6c370172e
+endProcessing "orliacore/main/GuiButtonDiscord.java"
+
+startProcessing "orliacore/main/GuiCustomIngameMenu.java" md5: 0dd883dcfbe28eb84d4fafb243a6e88c
+endProcessing "orliacore/main/GuiCustomIngameMenu.java"
+
+startProcessing "orliacore/main/GuiCustomMainMenu.java" md5: ae1d990e5f93265721a2ac77347df156
+endProcessing "orliacore/main/GuiCustomMainMenu.java"
+
+startProcessing "orliacore/main/ModOrliaCore.java" md5: a74a008572588b3d9ceac94905e63e21
+endProcessing "orliacore/main/ModOrliaCore.java"
+
+startProcessing "orliacore/main/OrliaCoreClient.java" md5: eaf20be6d6b1c48166c206f0b8ac110c
+endProcessing "orliacore/main/OrliaCoreClient.java"
+
+startProcessing "orliacore/main/OrliaCoreCommonProxy.java" md5: 37295bc1ed0a1e70378a252ac8e03e45
+endProcessing "orliacore/main/OrliaCoreCommonProxy.java"
+
